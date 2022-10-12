@@ -1,7 +1,7 @@
 package mtotski;
 
 
-
+import static org.assertj.core.api.Assertions.assertThat; // ne rabotaet add library to class path ne dobavlyaet.
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
