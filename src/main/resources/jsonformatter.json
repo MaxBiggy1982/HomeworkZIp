@@ -1,0 +1,11 @@
+{
+  "id" : 1,
+  "category" : "Cat Food",
+  "name" : "Chicken Can",
+  "available" : true,
+  "tags" : ["chicken", "cat", "can", ],
+  "characteristics" : {
+    "PriceEUR" : 55,
+    "PriceRub" : 555
+  }
+}
